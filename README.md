@@ -1,8 +1,8 @@
 # Squidki - Music Survival Game
-[Play Squidki Now]((https://squidki.online/)
+[Play Squidki Now](https://squidki.online/)
 
 
-![Squidki Banner]((https://squidki.online/1.jpg)
+![Squidki Banner](https://squidki.online/1.jpg)
 
 
 
